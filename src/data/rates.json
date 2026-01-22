@@ -339,7 +339,7 @@
     "id": "seed-43",
     "test_name": "2D ECHO",
     "price": 2200,
-    "category": "ULTRASOUND",
+    "category": "Cardiology",
     "description": "",
     "is_active": true
   },
@@ -635,7 +635,7 @@
     "id": "seed-80",
     "test_name": "ECG",
     "price": 400,
-    "category": "Radiology",
+    "category": "Cardiology",
     "description": "",
     "is_active": true
   }
