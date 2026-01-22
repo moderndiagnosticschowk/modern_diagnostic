@@ -1,0 +1,15 @@
+[
+  {
+    "id": "content-hero",
+    "section": "hero",
+    "content": {
+      "title": "Modern Diagnostic Center",
+      "content": "Advanced medical diagnostics in Lucknow since 1997.",
+      "image_url": "",
+      "button_text": "View Services",
+      "button_link": "/#services"
+    },
+    "updated_by": "local",
+    "updated_at": "2025-01-01T00:00:00.000Z"
+  }
+]

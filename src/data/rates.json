@@ -1,0 +1,642 @@
+[
+  {
+    "id": "seed-1",
+    "test_name": "WHOLE ABDOMEN",
+    "price": 1200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-2",
+    "test_name": "USG UPPER ABDOMEN",
+    "price": 900,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-3",
+    "test_name": "USG LOWER ABDOMEN",
+    "price": 900,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-4",
+    "test_name": "USG KUB",
+    "price": 900,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-5",
+    "test_name": "USG PELVIC",
+    "price": 900,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-6",
+    "test_name": "OBSTERTICS",
+    "price": 900,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-7",
+    "test_name": "OBSTERTICS TWINS",
+    "price": 1100,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-8",
+    "test_name": "USG WA + OBS",
+    "price": 1600,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-9",
+    "test_name": "USG TVS",
+    "price": 1200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-10",
+    "test_name": "USG WA + TVS",
+    "price": 2000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-11",
+    "test_name": "USG 3D-4D TVS",
+    "price": 2000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-12",
+    "test_name": "NT-NB SCAN",
+    "price": 2000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-13",
+    "test_name": "NT-NB SCAN TWINS",
+    "price": 2700,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-14",
+    "test_name": "FOETAL COLOR DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-15",
+    "test_name": "FOETAL COLOR DOPPLER TWINS",
+    "price": 3000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-16",
+    "test_name": "FOETAL ECHO",
+    "price": 2200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-17",
+    "test_name": "FOETAL ECHO TWINS",
+    "price": 3000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-18",
+    "test_name": "TIFFA",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-19",
+    "test_name": "TIFFA TWINS",
+    "price": 4000,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-20",
+    "test_name": "TIFFA TRIPLET",
+    "price": 5400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-21",
+    "test_name": "B/L LOWER LIMB",
+    "price": 4500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-22",
+    "test_name": "RIGHT LOWER LIMB",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-23",
+    "test_name": "LEFT LOWER LIMB",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-24",
+    "test_name": "B/L UPPER LIMB",
+    "price": 4500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-25",
+    "test_name": "RIGHT UPPER LIMB",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-26",
+    "test_name": "LEFT UPPER LIMB",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-27",
+    "test_name": "SCROTUM DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-28",
+    "test_name": "RENAL DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-29",
+    "test_name": "NECK DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-30",
+    "test_name": "PELVIS DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-31",
+    "test_name": "TVS DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-32",
+    "test_name": "CAROTID DOPPLER",
+    "price": 2400,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-33",
+    "test_name": "SOFT TISSUE DOPPLER",
+    "price": 2200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-34",
+    "test_name": "HRSG NECK",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-35",
+    "test_name": "HRSG THYROID",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-36",
+    "test_name": "HRSG SCROTUM",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-37",
+    "test_name": "HRSG TRUS",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-38",
+    "test_name": "HRSG B SCAN",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-39",
+    "test_name": "HRSG CRANIAL",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-40",
+    "test_name": "HRSG HIP",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-41",
+    "test_name": "SONOMAMOGRAPHY B/L BREAST",
+    "price": 1800,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-42",
+    "test_name": "SONOMAMOGRAPHY ONE SIDE",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-43",
+    "test_name": "2D ECHO",
+    "price": 2200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-44",
+    "test_name": "SSG",
+    "price": 2500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-45",
+    "test_name": "FOLLICULAR STUDY",
+    "price": 2200,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-46",
+    "test_name": "THORAX",
+    "price": 1500,
+    "category": "ULTRASOUND",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-47",
+    "test_name": "CHEST PA",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-48",
+    "test_name": "CHEST AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-49",
+    "test_name": "CERVICAL SPINE AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-50",
+    "test_name": "CERVICAL SPINE LAT",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-51",
+    "test_name": "C. SPINE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-52",
+    "test_name": "L.S SPINE AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-53",
+    "test_name": "L.S SPINE LAT",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-54",
+    "test_name": "L.S SPINE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-55",
+    "test_name": "D.L SPINE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-56",
+    "test_name": "DORSAL L. SPINE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-57",
+    "test_name": "SHOULDER AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-58",
+    "test_name": "SHOULDER LAT",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-59",
+    "test_name": "SHOULDER AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-60",
+    "test_name": "ANKLE AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-61",
+    "test_name": "ANKLE LAT",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-62",
+    "test_name": "PELVIS XRAY",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-63",
+    "test_name": "ABDOMEN ERECT",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-64",
+    "test_name": "B/L KNEE AP/LAT",
+    "price": 1000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-65",
+    "test_name": "RIGHT KNEE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-66",
+    "test_name": "LEFT KNEE AP/LAT",
+    "price": 700,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-67",
+    "test_name": "BOTH KNEE AP",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-68",
+    "test_name": "X-RAY KUB",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-69",
+    "test_name": "PNS",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-70",
+    "test_name": "BARIUM ENEMA ADULT",
+    "price": 2000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-71",
+    "test_name": "BARIUM SWALLOW",
+    "price": 1500,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-72",
+    "test_name": "BMFT",
+    "price": 2000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-73",
+    "test_name": "IVP",
+    "price": 3000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-74",
+    "test_name": "MCU",
+    "price": 1500,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-75",
+    "test_name": "RGU",
+    "price": 2000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-76",
+    "test_name": "MCU + RGU",
+    "price": 2500,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-77",
+    "test_name": "B/L MAMMOGRAPHY",
+    "price": 2200,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-78",
+    "test_name": "ONE SIDE MAMMOGRAPHY",
+    "price": 1800,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-79",
+    "test_name": "HSG",
+    "price": 3000,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  },
+  {
+    "id": "seed-80",
+    "test_name": "ECG",
+    "price": 400,
+    "category": "Radiology",
+    "description": "",
+    "is_active": true
+  }
+]
